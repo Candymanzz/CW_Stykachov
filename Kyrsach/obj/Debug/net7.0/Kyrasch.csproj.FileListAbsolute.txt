@@ -1,0 +1,15 @@
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\bin\Debug\net7.0\Kyrasch.exe
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\bin\Debug\net7.0\Kyrasch.deps.json
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\bin\Debug\net7.0\Kyrasch.runtimeconfig.json
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\bin\Debug\net7.0\Kyrasch.dll
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\bin\Debug\net7.0\Kyrasch.pdb
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\Kyrasch.csproj.AssemblyReference.cache
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\Kyrasch.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\Kyrasch.AssemblyInfoInputs.cache
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\Kyrasch.AssemblyInfo.cs
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\Kyrasch.csproj.CoreCompileInputs.cache
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\Kyrasch.dll
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\refint\Kyrasch.dll
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\Kyrasch.pdb
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\Kyrasch.genruntimeconfig.cache
+D:\GitHubPj\GRound\ProgNotSolo\Kyrasch\obj\Debug\net7.0\ref\Kyrasch.dll
